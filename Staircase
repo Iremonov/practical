@@ -1,3 +1,5 @@
+a little C# code that creates a ladder with "#"
+
 using System;
 
 class Program
